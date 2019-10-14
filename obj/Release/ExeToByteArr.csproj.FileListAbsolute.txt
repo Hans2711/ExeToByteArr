@@ -1,8 +1,0 @@
-C:\Users\diesi\Desktop\PRojects\ExeToByteArr\ExeToByteArr\bin\Release\ExeToByteArr.exe.config
-C:\Users\diesi\Desktop\PRojects\ExeToByteArr\ExeToByteArr\bin\Release\ExeToByteArr.exe
-C:\Users\diesi\Desktop\PRojects\ExeToByteArr\ExeToByteArr\bin\Release\ExeToByteArr.pdb
-C:\Users\diesi\Desktop\PRojects\ExeToByteArr\ExeToByteArr\obj\Release\ExeToByteArr.Form1.resources
-C:\Users\diesi\Desktop\PRojects\ExeToByteArr\ExeToByteArr\obj\Release\ExeToByteArr.Properties.Resources.resources
-C:\Users\diesi\Desktop\PRojects\ExeToByteArr\ExeToByteArr\obj\Release\ExeToByteArr.csproj.GenerateResource.cache
-C:\Users\diesi\Desktop\PRojects\ExeToByteArr\ExeToByteArr\obj\Release\ExeToByteArr.exe
-C:\Users\diesi\Desktop\PRojects\ExeToByteArr\ExeToByteArr\obj\Release\ExeToByteArr.pdb
